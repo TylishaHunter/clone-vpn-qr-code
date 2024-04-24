@@ -1,5 +1,7 @@
 # clone-vpn-qr-code
 
+<img src="https://github.com/TylishaHunter/clone-vpn-qr-code/blob/main/sp.png"/>
+
 ***So you have probably seen the Clone VPN partner codes, well I did too, and there was something strange about them...***
 
 *The first 2 letters were always odd and rather random. For example: JG, VG, cd, lz, and Fp were in those partner codes*
@@ -14,3 +16,4 @@ In also of their sponsorships (Danno/Riggy, Johnny, Bundun, and RoyalPear), they
 
 ## CODES ARE (listed by the accordance to the numbers at the end of their codes):
 
+<img src="https://github.com/TylishaHunter/clone-vpn-qr-code/blob/main/d2.png"/>
