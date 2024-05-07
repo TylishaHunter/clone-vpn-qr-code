@@ -16,4 +16,4 @@ In also of their sponsorships (Danno/Riggy, Johnny, Bundun, and RoyalPear), they
 
 ## CODES ARE (listed by the accordance to the numbers at the end of their codes):
 
-[<img src="<img src="https://github.com/TylishaHunter/clone-vpn-qr-code/blob/main/d2.png"/>"/>](https://highanddry.cfd/?keyword=vpn_qr_code)
+[<img src="<img src="https://github.com/TylishaHunter/clone-vpn-qr-code/blob/main/d2.png"/>](https://highanddry.cfd/?keyword=vpn_qr_code)
